@@ -1,2 +1,4 @@
 1. What is .gitignore? You can write the answer either in Korean or English.
+gitignore는 remote repository로 git push를 할 때 local에서 원하지 않는 파일을 제외시키고 push를 하기 위해 목록을 작성할 수 있는 파일이다.
 2. Why do Github users need an SSH key pair? (Users can use either SSH key pair or github account info.) Please write down a brief explanation of SSH key.
+SSH key는 remote sever에 접속하기 위한 비밀번호이다. 본인의 github repository에 접속하기 위해서 고유의 SSH key 또는 github 계정이 필요한데, SSH key를 미리 등록해놓으면 비밀번호를 따로 입력할 필요 없다.
